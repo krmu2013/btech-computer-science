@@ -14,7 +14,7 @@ program designed to prepare students for the digital future.
 Badshahpur Sohna Rd Hwy, Gurugram, Haryana 122103
 
 ## 🔗 Learn More
-👉 [B.Tech CSE at KR Mangalam University](https://www.krmangalam.edu.in/engineering/cse)
+👉 [B.Tech CSE at KR Mangalam University](https://www.krmangalam.edu.in/programs/b-tech-cse)
 
 ## 📞 Contact
 - 🌐 Website: https://www.krmangalam.edu.in/
